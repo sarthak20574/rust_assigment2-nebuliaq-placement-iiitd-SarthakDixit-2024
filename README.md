@@ -40,3 +40,7 @@ To get started with this project, you'll need to have Rust and Cargo installed. 
    cargo run --bin client
    ```
 ```
+
+
+##Video:
+https://github.com/sarthak20574/rust_assigment2-nebuliaq-placement-iiitd-SarthakDixit-2024
