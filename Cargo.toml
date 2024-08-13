@@ -1,0 +1,17 @@
+[package]
+name = "tcp_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+
+
+[[bin]]
+name = "tcp_server"
+path = "src/main.rs"
+
+[[bin]]
+name = "client"
+path = "src/client.rs"
+
